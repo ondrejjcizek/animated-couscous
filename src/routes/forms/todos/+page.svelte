@@ -45,11 +45,7 @@
     }
 </script>
 
-<!-- <pre>
-    {JSON.stringify(data, null, 2)}
-</pre> -->
-
-<div class="max-w-xs">
+<div class="w-full max-w-xs">
     <ul class="flex h-full flex-col p-0">
         {#each data.todos as todo (todo.id)}
             <li

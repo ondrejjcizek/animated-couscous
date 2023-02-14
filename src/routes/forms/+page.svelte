@@ -1,8 +1,9 @@
 <h1 class="text-3xl font-bold text-green-300 underline">Forms</h1>
 
 <nav class="mt-10 mb-20">
-    <ul>
+    <ul class="flex gap-x-4">
         <li><a class="link-hover link" href="/forms/todos">Todos (JS)</a></li>
+        <li><a class="link-hover link" href="/forms/felte">Felte</a></li>
     </ul>
 </nav>
 
